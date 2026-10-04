@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Kirtan Bhatt
 
-<!--
-**kirtanbhatt10/kirtanbhatt10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering (Cyber Security) student at the Institute of Advanced Research, Gandhinagar. I work across web and API security, AI/LLM applications, and backend engineering.
 
-Here are some ideas to get you started:
+- Founder and lead developer of **Sugam**, an SSIP Gujarat-funded spiritual-services marketplace (pre-production)
+- Team lead of **Zenny AI Therapist**, Smart India Hackathon 2025 National Finalist
+- 2nd place, CyberPeace × IAR cybersecurity hackathon (2025)
+- President, IAR STEM Club
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Sentinel](https://github.com/kirtanbhatt10/sentinel) | AI-powered digital asset protection: detects unauthorized reuse and manipulation using cryptographic fingerprinting, perceptual hashing and AI reasoning | Next.js, React, TypeScript, Gemini API, Cohere API |
+| [Zenny](https://github.com/kirtanbhatt10/zenny) | AI-enabled therapy-access platform built for SIH 2025; I owned the backend, AI fusion engine and API pipelines | TypeScript, Node.js, LLM integration |
+| [Solaris](https://github.com/kirtanbhatt10/solaris) | Solar power generation prediction using NASA POWER and Open-Meteo data with an XGBoost model and azimuth optimization | Flask, XGBoost, TypeScript |
+
+## Skills
+
+- **Security:** web security, API security, networking, secure coding, security reviews
+- **Languages:** Python, JavaScript/TypeScript, Java, C/C++
+- **Development:** React, Node.js, REST APIs, AI/LLM integration
+- **Cloud and data:** AWS, DynamoDB
+- **Tools:** Git/GitHub, Linux
+
+## Achievements
+
+- National Finalist, Smart India Hackathon 2025
+- 2nd place, CyberPeace × IAR Hackathon 2025
+- 7th of 300 teams, LJ University Hackathon
+
+## Contact
+
+- Email: kirtan11bhatt@gmail.com
+- LinkedIn: [kirtan-bhatt-974422322](https://www.linkedin.com/in/kirtan-bhatt-974422322/)
