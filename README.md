@@ -27,7 +27,7 @@ Computer Engineering (Cyber Security) student at the Institute of Advanced Resea
 
 - National Finalist, Smart India Hackathon 2025
 - 2nd place, CyberPeace × IAR Hackathon 2025
-- 7th of 300 teams, LJ University Hackathon
+
 
 ## Contact
 
