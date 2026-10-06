@@ -13,7 +13,7 @@ Computer Engineering (Cyber Security) student at the Institute of Advanced Resea
 |---|---|---|
 | [Sentinel](https://github.com/kirtanbhatt10/sentinel) | AI-powered digital asset protection: detects unauthorized reuse and manipulation using cryptographic fingerprinting, perceptual hashing and AI reasoning | Next.js, React, TypeScript, Gemini API, Cohere API |
 | [Zenny](https://github.com/kirtanbhatt10/zenny) | AI-enabled therapy-access platform built for SIH 2025; I owned the backend, AI fusion engine and API pipelines | TypeScript, Node.js, LLM integration |
-| [Solaris](https://github.com/kirtanbhatt10/solaris) | Solar power generation prediction using NASA POWER and Open-Meteo data with an XGBoost model and azimuth optimization | Flask, XGBoost, TypeScript |
+| [Undertone](https://github.com/kirtanbhatt10/undertone-desktop) | A quiet, floating desktop AI assistant for meetings, interviews, presentations and deep work | Electron, React, TypeScript |
 
 ## Skills
 
