@@ -5,7 +5,6 @@ Computer Engineering (Cyber Security) student at the Institute of Advanced Resea
 - Founder and lead developer of **Sugam**, an SSIP Gujarat-funded spiritual-services marketplace (pre-production)
 - Team lead of **Zenny AI Therapist**, Smart India Hackathon 2025 National Finalist
 - 2nd place, CyberPeace × IAR cybersecurity hackathon (2025)
-- President, IAR STEM Club
 
 ## Projects
 
