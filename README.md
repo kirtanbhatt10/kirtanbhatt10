@@ -1,9 +1,5 @@
 # Hi, I'm Kirtan Bhatt
 
-<p align="center">
-  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Securing+the+apps+that+steal+your+OTP;Building+security+tools+for+AI+agents;Chowkidar+%E2%80%94+a+scam+APK+watchman+(in+progress)" />
-</p>
-
 Computer Engineering (Cyber Security) student at the Institute of Advanced Research, Gandhinagar. I work across web and API security, AI/LLM applications, and backend engineering.
 
 - Founder and lead developer of **Sugam**, an SSIP Gujarat-funded spiritual-services marketplace (pre-production)
@@ -22,19 +18,31 @@ Computer Engineering (Cyber Security) student at the Institute of Advanced Resea
 | [Zenny](https://github.com/kirtanbhatt10/zenny) | AI-enabled therapy-access platform built for SIH 2025; I owned the backend, AI fusion engine and API pipelines | TypeScript, Node.js, LLM integration |
 | [Undertone](https://github.com/kirtanbhatt10/undertone-desktop) | A quiet, floating desktop AI assistant for meetings, interviews, presentations and deep work | Electron, React, TypeScript |
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kirtanbhatt10&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanbhatt10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kirtanbhatt10&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=00000000" />
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kirtanbhatt10&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default&hide_border=true&bg_color=00000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanbhatt10&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=00000000" />
+    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanbhatt10&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=00000000" />
+  </picture>
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=kirtanbhatt10&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kirtanbhatt10&theme=github-dark-blue&hide_border=true&background=00000000" />
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=kirtanbhatt10&theme=default&hide_border=true&background=00000000" />
+  </picture>
 </p>
 
 <p align="center">
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,typescript,js,react,nodejs,fastapi,aws,git,linux,github,docker" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nodejs,fastapi,aws,linux,git&theme=dark" />
+    <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nodejs,fastapi,aws,linux,git&theme=light" />
+  </picture>
 </p>
 
 ## Skills
@@ -50,17 +58,6 @@ Computer Engineering (Cyber Security) student at the Institute of Advanced Resea
 - National Finalist, Smart India Hackathon 2025
 - 2nd place, CyberPeace × IAR Hackathon 2025
 
-
-## 🎲 Fun corner
-
-- 📚 Weekend reading: CVE write-ups, paired with chai
-- 🧠 Current obsession: how AI agents get tricked, and how to stop it
-- 🛡️ Life motto: trust, but verify the APK
-- 👀 Profile views:
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=kirtanbhatt10&label=Profile+views&color=36bcf7&style=flat-square" />
-</p>
 
 ## Contact
 
