@@ -40,8 +40,15 @@ Computer Engineering (Cyber Security) student at the Institute of Advanced Resea
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nodejs,fastapi,aws,linux,git&theme=dark" />
-    <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nodejs,fastapi,aws,linux,git&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Cjava%2Ccpp%2Creact%2Cnodejs%2Cfastapi%2Caws%2Clinux%2Cgit&theme=dark" />
+    <img alt="Tech stack" src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Cjava%2Ccpp%2Creact%2Cnodejs%2Cfastapi%2Caws%2Clinux%2Cgit&theme=light" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirtanbhatt10/kirtanbhatt10/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/kirtanbhatt10/kirtanbhatt10/output/github-snake.svg" />
   </picture>
 </p>
 
