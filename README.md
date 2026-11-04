@@ -10,6 +10,7 @@ Computer Engineering (Cyber Security) student at the Institute of Advanced Resea
 
 | Project | What it is | Stack |
 |---|---|---|
+| [authlint](https://github.com/kirtanbhatt10/authlint) | Auditor for OAuth 2.0 and OpenID Connect deployments: checks discovery metadata, signing keys (JWKS) and client registrations against RFC 9700, and flags implicit and password grants, missing PKCE, `alg: none`, leaked private keys and unsafe redirect URIs | Python, OAuth/OIDC, SARIF, GitHub Actions |
 | [mcp-warden](https://github.com/kirtanbhatt10/mcp-warden) | Security scanner for MCP server configs: finds leaked API keys, unpinned npx/uvx/docker servers, typosquats, malicious packages and tool poisoning in Claude, Cursor, VS Code, Windsurf, Gemini CLI and Codex | JavaScript, Node.js, SARIF, GitHub Actions |
 | [Injektor](https://github.com/kirtanbhatt10/Injektor) | LLM security testing CLI: probes AI apps with controlled prompt-injection and jailbreak attacks, detects leaks with canaries, and produces JSON + HTML reports | Python, CLI, LLM security |
 | [Gadbad](https://github.com/kirtanbhatt10/gadbad) | Static analyser for scam APKs spreading over WhatsApp in India: flags OTP theft, accessibility abuse, call forwarding and Telegram/C2 exfiltration, and explains findings in English and Hindi. Never runs the app | Python, Android, malware analysis |
